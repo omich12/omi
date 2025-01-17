@@ -10,7 +10,7 @@ using std::cout;
 using std::endl;
 int main()
 {
-    cout << "Hello World123456" << endl;
+    cout << "Hello World" << endl;
     cout << "BYE";
     return 0;
 }
